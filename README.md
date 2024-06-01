@@ -8,4 +8,4 @@ Example homepage for a company survey. It demonstrates styling and example of di
 
 --How to run
 
-To run the applicaiton navigate to settings and click pages row (on left hand side). Then click the "your site is live at" link.
+To run the applicaiton navigate to settings and click the pagesrow (on left hand side). Then click the "your site is live at" link.
